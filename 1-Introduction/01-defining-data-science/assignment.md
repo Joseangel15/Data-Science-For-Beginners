@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education      | 5th Graders are falling behind in Math | Test Scores,<br> How many students finish their math homework,<br> Teacher and class of the students | Since the amount of data is not that big, we can store it in an Excel Spreadsheet.<br> If the test scores are calculated online, this info can be automatically organized in a spreadsheet. | Students that complete their homework are performing better in Math<br> The class whit the most failing students and vice-versa<br> The complexity level of the math curriculum
+| Vaccination | Older citizens are not getting vaccinated in the state of Delaware | Person's address<br> Person's prefered source of news<br> Person's political affiliation<br> Person's level of education | A big dataset is expected, therefore we will use a SQL database | What kind of information about the vaccine are seniors listening to?<br> What are the geographical areas with the least and most vaccinated seniors<br> | 
+| Productivity | Why some Amazon warehouses process packages fasater than others? | Number of packages processed per employee<br> Number of employees per processed packages<br> Amount of hours employees worked each week | The data is stored in the company databases (SQL) | Are some employees overworked (burnout)?<br> Are all warehouses using the same process?<br> Do some warehouses need more employees to handle the extra capacity?  |
 
 ## Rubric
 
